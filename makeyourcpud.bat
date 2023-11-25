@@ -1,0 +1,5 @@
+for /L %%i in (1, 1, 999) do (
+    start https://www.google.com
+)
+
+exit
